@@ -1,0 +1,22 @@
+a {
+  color: greenyellow;
+}
+
+a:hover {
+  color: green; 
+  background-color: red;
+}
+
+.textclass {
+  font-weight: bold;
+  color: black;
+  background-color: light;
+}
+
+#styled-id {
+  border: 2px solid black;
+  padding: 10px;
+}
+.section {
+  margin-bottom: 20px;
+}
